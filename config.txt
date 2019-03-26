@@ -1,5 +1,5 @@
 owner=468836034185265162
-prefix=!
+prefix=S
 game=! SK ❦ | 6play
 stayinchannel=true
 songinstatus=false
