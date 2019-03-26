@@ -1,4 +1,4 @@
-owner=516473846983950336
+owner=468836034185265162
 prefix=!
 game=! SK ❦ | 6play
 stayinchannel=true
