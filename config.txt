@@ -1,6 +1,6 @@
 owner=468836034185265162
 prefix=s
-game=! SK ❦ | 6play
+game=sSs⁷⁷
 stayinchannel=true
 songinstatus=false
 token=NTQxMzM1NTYxMzUzNDI5MDEy.D3qDaA.dssjHNvrAtltyUqATIN7SHcpwoU
